@@ -1,0 +1,11 @@
+{"code":200,"meta":{"pagination":{"total":2500,"pages":250,"page":1,"limit":10}},"data":[
+{"id":570008,"name":"Akshita Patel","email":"akshita_patel@morissette.info","gender":"female","status":"active"},
+{"id":570007,"name":"Aditeya Jain","email":"aditeya_jain@blick.org","gender":"male","status":"active"},
+{"id":570006,"name":"Krishnadas Khanna","email":"khanna_krishnadas@pfeffer-dietrich.name","gender":"female","status":"inactive"},
+{"id":570005,"name":"Deeptiman Malik","email":"malik_deeptiman@goodwin.org","gender":"male","status":"inactive"},
+{"id":570004,"name":"Rep. Ananta Malik","email":"ananta_malik_rep@bins.net","gender":"female","status":"active"},
+{"id":570003,"name":"Meena Agarwal","email":"meena_agarwal@hayes.org","gender":"female","status":"inactive"},
+{"id":570002,"name":"Chitrali Mehrotra","email":"mehrotra_chitrali@smitham.co","gender":"male","status":"inactive"},
+{"id":570001,"name":"Devagya Chaturvedi","email":"devagya_chaturvedi@greenfelder-lubowitz.biz","gender":"male","status":"active"},
+{"id":570000,"name":"Rajinder Varma","email":"rajinder_varma@corwin.name","gender":"male","status":"inactive"},
+{"id":569999,"name":"Trilokesh Ahuja","email":"ahuja_trilokesh@hickle.com","gender":"male","status":"inactive"}]}
